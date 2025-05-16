@@ -4,6 +4,8 @@ My name is
 
 # Daman Di-nan YEUNG
 
+<img src="https://github.com/user-attachments/assets/4a85a139-a3e3-4174-beff-436b8b8204e5" width = "640" alt="DMY_Name_Card" align="center" />
+
 ## BIO
 
 - Currently studying for BEng. at South China University of Technology, Canton, PRC.
@@ -13,7 +15,7 @@ My name is
 
 ## VENTURE ROLE
 
-**CEO, Director, and Founder** @ CITATEK LIMITED
+**R&D Supervisor, CEO, Director, and Founder** @ CITATEK LIMITED
 
 [CITATEK Official Website](https://citatek.cn)
 
